@@ -1,0 +1,2 @@
+c6iBq54uH8QsHf66
+mongodb+srv://restaurant_app:<password>@cluster0.um1pibk.mongodb.net/?retryWrites=true&w=majority
